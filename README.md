@@ -5,5 +5,11 @@
 
 - [http://deeplearning.net](http://deeplearning.net)
 
+## computational physics
 
-# frameworks & libraries
+- [http://www-personal.umich.edu/~mejn](http://www-personal.umich.edu/~mejn)
+
+
+## frameworks & libraries
+
+
