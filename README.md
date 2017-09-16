@@ -8,5 +8,8 @@
 
 - [http://www-personal.umich.edu/~mejn](http://www-personal.umich.edu/~mejn)
 
+## papers
+
+- [https://github.com/aleju/papers/](https://github.com/aleju/papers/)
 
 ## frameworks & librarie
